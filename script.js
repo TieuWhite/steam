@@ -136,3 +136,4 @@ renderGames();
 renderGenres();
 
 
+console.log ("hello world")
